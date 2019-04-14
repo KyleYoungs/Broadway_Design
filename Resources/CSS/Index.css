@@ -1,0 +1,33 @@
+* {
+  text-align: center;
+}
+
+#banner h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#banner li {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+#processes h3 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#processes h4 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#processes p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
